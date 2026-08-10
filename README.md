@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simplycole
-- 👀 I’m interested in learning new languages and frameworks, as well as retro and tabletop gaming. I have a strong love for Magic: The Gathering. <3 
+- 👀 I’m interested in learning new languages and frameworks, as well as dead media, horror and tabletop gaming. I have a strong love for Magic: The Gathering. <3 
 - 📫 You can reach me via email at cole@itscol.es
 
 <!---
