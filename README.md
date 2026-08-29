@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Cole Pearson — Full-Stack Developer, Open-Source Tinkerer, and Old-Tech Enthusiast">
+</p>
+
 # Hey, I'm Cole. 👋
 
 **Full-stack developer · Open-source tinkerer · Old-tech enthusiast**
