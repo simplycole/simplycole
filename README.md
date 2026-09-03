@@ -57,6 +57,11 @@ translation, and English patch development.
 🌐 **Website:** [tamamedics.com](https://tamamedics.com)  
 📦 **Repository:** [github.com/simplycole/tamamedics.com](https://github.com/simplycole/tamamedics.com)
 
+### [Signalbox](https://github.com/simplycole/signalbox)
+
+**Signalbox** — A modern open-source terminal client for Pandora, carrying
+pianobar's native-C foundation into a responsive TUI for macOS and Linux.
+
 ---
 
 ## 📼 Elsewhere in the Lab
@@ -84,7 +89,6 @@ There is usually at least one half-disassembled piece of electronics nearby.
 
 🌐 **Web:** [itscol.es](https://itscol.es)  
 💼 **LinkedIn:** [linkedin.com/in/simplycole](https://linkedin.com/in/simplycole)  
-𝕏 **X:** [@SimplyCole](https://x.com/SimplyCole)
 
 ---
 
