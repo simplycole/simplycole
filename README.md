@@ -60,6 +60,31 @@ The work spans:
 
 ### Other Projects
 
+#### 🧰 [Pixel & Stack](https://pixel-and-stack.com/)
+
+**Pixel & Stack** is my independent software and web consultancy, focused on
+building, improving, and maintaining the websites and systems businesses rely on.
+That includes full-stack development, custom internal tools, API integrations,
+infrastructure, troubleshooting, and long-term production support.
+
+🌐 **Website:** [pixel-and-stack.com](https://pixel-and-stack.com/)
+
+#### [Signalbox](https://itscol.es/projects/signalbox/)
+
+**Signalbox** — A modern open-source terminal client for Pandora, carrying
+pianobar's native-C foundation into a responsive TUI for macOS and Linux, with
+a native Windows build in active development.
+
+#### 📼 [PLEASE REWIND: A Dead Channel Video Story](https://itscol.es/projects/#please-rewind)
+
+**PLEASE REWIND** is an independent 3D horror game set in the strange world
+of a fictional 1990s video store. I'm building it in Godot 4, from gameplay
+and state systems to interactive environments, UI, tooling, and performance work.
+
+🎮 **Built with:** Godot 4 · GDScript · 3D game systems  
+🚧 **Status:** In development; source repository is private.  
+🌐 **Project:** [itscol.es/projects/#please-rewind](https://itscol.es/projects/#please-rewind)
+
 #### 🥚 [TamaMedics](https://tamamedics.com)
 
 *Repair it. Document it. Preserve it. Share it.*
@@ -76,12 +101,6 @@ translation, and English patch development.
 🛠️ **Built with:** Astro · TypeScript · MDX · CSS  
 🌐 **Website:** [tamamedics.com](https://tamamedics.com)  
 📦 **Repository:** [github.com/simplycole/tamamedics.com](https://github.com/simplycole/tamamedics.com)
-
-#### [Signalbox](https://itscol.es/projects/signalbox/)
-
-**Signalbox** — A modern open-source terminal client for Pandora, carrying
-pianobar's native-C foundation into a responsive TUI for macOS and Linux, with
-a native Windows build in active development.
 
 ---
 
