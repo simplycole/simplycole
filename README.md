@@ -75,7 +75,7 @@ infrastructure, troubleshooting, and long-term production support.
 pianobar's native-C foundation into a responsive TUI for macOS and Linux, with
 a native Windows build in active development.
 
-#### 📼 [PLEASE REWIND: A Dead Channel Video Story](https://itscol.es/projects/#please-rewind)
+#### 📼 [PLEASE REWIND: A Dead Channel Video Story](https://www.deadchannelvideo.com/)
 
 **PLEASE REWIND** is an independent 3D horror game set in the strange world
 of a fictional 1990s video store. I'm building it in Godot 4, from gameplay
@@ -83,7 +83,7 @@ and state systems to interactive environments, UI, tooling, and performance work
 
 🎮 **Built with:** Godot 4 · GDScript · 3D game systems  
 🚧 **Status:** In development; source repository is private.  
-🌐 **Project:** [itscol.es/projects/#please-rewind](https://itscol.es/projects/#please-rewind)
+🌐 **Official website:** [deadchannelvideo.com](https://www.deadchannelvideo.com/)
 
 #### 🥚 [TamaMedics](https://tamamedics.com)
 
