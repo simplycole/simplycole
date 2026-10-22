@@ -31,7 +31,7 @@ forgotten about.
 
 ### Frameworks, Platforms & Tools
 
-`WordPress` · `Astro` · `Node.js` · `Git` · `GitHub` · `Godot`
+`WordPress` · `Astro` · `Next.js` · `React` · `React Native` · `Node.js` · `PostgreSQL` · `Git` · `GitHub` · `Godot`
 
 ### Currently Exploring
 
@@ -40,11 +40,31 @@ forgotten about.
 
 ---
 
-## 🥚 Featured Project — TamaMedics
+## 🗃️ Featured Project — CacheLore
 
-### Repair it. Document it. Preserve it. Share it.
+### Object Intelligence. Identify, catalog, and understand what you found.
 
-**[TamaMedics](https://tamamedics.com)** is an open-source, community-oriented
+**[CacheLore](https://cachelore.com)** is an object-intelligence platform I'm
+building to identify exact physical collectibles, explore their history, and
+organize collections using traceable source evidence rather than guesswork.
+
+The work spans:
+
+- **CacheOS 97:** A late-90s-inspired web workstation for object research, catalog exploration, and private collection management.
+- **PT—01 Pocket Terminal:** A React Native / Expo field-inspection client, currently in active development.
+- **Data & infrastructure:** A PostgreSQL-backed catalog, provenance-aware domain models, authentication, APIs, and a Next.js / TypeScript web app.
+
+**Status:** Active development; the source repository is private. Data coverage and product capabilities continue to evolve.  
+🌐 **Website:** [cachelore.com](https://cachelore.com)  
+🛠️ **Built with:** Next.js · TypeScript · PostgreSQL · React Native · Expo
+
+### Other Projects
+
+#### 🥚 [TamaMedics](https://tamamedics.com)
+
+*Repair it. Document it. Preserve it. Share it.*
+
+**TamaMedics** is an open-source, community-oriented
 project dedicated to Tamagotchi repair, hardware preservation, reverse
 engineering, firmware research, documentation, and tooling.
 
@@ -57,10 +77,11 @@ translation, and English patch development.
 🌐 **Website:** [tamamedics.com](https://tamamedics.com)  
 📦 **Repository:** [github.com/simplycole/tamamedics.com](https://github.com/simplycole/tamamedics.com)
 
-### [Signalbox](https://github.com/simplycole/signalbox)
+#### [Signalbox](https://itscol.es/projects/signalbox/)
 
 **Signalbox** — A modern open-source terminal client for Pandora, carrying
-pianobar's native-C foundation into a responsive TUI for macOS and Linux.
+pianobar's native-C foundation into a responsive TUI for macOS and Linux, with
+a native Windows build in active development.
 
 ---
 
